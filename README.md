@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @jalexjovel
 - 📫 How to reach me ...jalexjovel@gmail.com
+- https://www.linkedin.com/in/jonathan-jovel/
 
 <!---
 jalexjovel/jalexjovel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
