@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @jalexjovel
+- 🚀 Full-stack engineer building open-source tools with React, Node, TypeScript, and SQL
+- 🌱 Currently learning: AWS Certified Developer – Associate (DVA-C02)
 - 📫 How to reach me ...jalexjovel@gmail.com
 - https://www.linkedin.com/in/jonathan-jovel/
 
